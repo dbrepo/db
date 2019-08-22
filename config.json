@@ -1,10 +1,10 @@
 {
 "homeAd":{
-"dismissSeconds":"5",
-"backgroundColor":"353535",
+"dismissSeconds":"-1",
+"backgroundColor":"616d7a",
 "text":"please follow our page on instagram",
 "actionText":"Sure!",
-"actionBackgroundColor":"FF0000",
+"actionBackgroundColor":"8900ba",
 "actionLink":"https://www.instagram.com/tike_mashti/"
 },
 "version":1
