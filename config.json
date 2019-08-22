@@ -7,5 +7,6 @@
 "actionBackgroundColor":"8900ba",
 "actionLink":"https://www.instagram.com/tike_mashti/"
 },
-"version":1
+"dbVersion":1,
+"appVersion":1
 }
