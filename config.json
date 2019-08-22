@@ -4,6 +4,7 @@
 "backgroundColor":"353535",
 "text":"please follow our page on instagram",
 "actionText":"Sure!",
+"actionBackgroundColor":"FF0000",
 "actionLink":"https://www.instagram.com/tike_mashti/"
 },
 "version":1
