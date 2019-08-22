@@ -1,5 +1,10 @@
 {
 "BackupInstaAccount": "some-insta-page",
+"ad":{
+"text":"please follow our page on instagram",
+"actionText":"Sure!",
+"actionLink":"https://www.instagram.com/tike_mashti/"
+},
 "movies": [
 {"id":1,"i":"http://static.cdntor.com/images214/titles/Q/QdNbn.jpg","t":"1 Buck","m":"http:///h14.uploadcdn.info/movies/1/1_Buck_2017_720p_BrRip_YIFY_Hiva.mp4","s":"https://dl.blaxsub.com/2018/12/17/1-buck_farsi_persian-1669915.zip"},
 {"id":2,"i":"http://static.cdntor.com/images214/titles/Q/Qqgqh.jpg","t":"The Game Changer","m":"http:///h14.uploadcdn.info/movies/t/The_Game_Changer_2017_720p_BrRip_Ganool_Hiva.mkv","s":"https://dl.blaxsub.com/2018/12/24/the-game-changer_farsi_persian-1682855.zip"},
