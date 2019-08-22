@@ -1,5 +1,7 @@
 {
-"ad":{
+"homeAd":{
+"dissmissSeconds":"5",
+"backgroundColor":"353535",
 "text":"please follow our page on instagram",
 "actionText":"Sure!",
 "actionLink":"https://www.instagram.com/tike_mashti/"
