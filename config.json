@@ -1,11 +1,11 @@
 {
 "homeAd":{
-"dismissSeconds":"-1",
+"dismissSeconds":"5",
 "backgroundColor":"616d7a",
 "text":"please follow our page on instagram.\nwe need your support!",
 "actionText":"Sure!",
 "actionBackgroundColor":"8900ba",
-"actionLink":"https://www.instagram.com/tike_mashti/"
+"actionLink":"https://www.instagram.com/moview_app_insta/"
 },
 "dbVersion":1,
 "appVersion":3
